@@ -1,5 +1,3 @@
-﻿//William Dunn - Final Exam - 275
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
